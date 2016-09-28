@@ -1,0 +1,30 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: index.php
+
+- url: /about
+  script: about.php
+
+- url: /content
+  script: content.php
+
+- url: /navigator
+  script: navigator.php
+
+- url: /scincaretools
+  script: scincaretools.php
+
+- url: /developer_info
+  script: developer_info.php
+
+- url: /makeup
+  script: makeup.php
+
+- url: /product
+  script: product.php
+
+- url: /skincare
+  script: skincare.php
