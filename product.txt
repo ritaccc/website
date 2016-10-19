@@ -1,4 +1,0 @@
-product.php PRODUCT
-skincare.php SKINCARE 
-makeup.php MAKEUP 
-skincaretools.php TOOLS 

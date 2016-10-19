@@ -40,7 +40,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Lato", sans-serif}
   <li class="mx-left" style="width:20% !important"><a href="news.php">News</a></li>
   <li class="mx-left" style="width:20% !important"><a href="product.php">Product</a></li>
   <li class="mx-left" style="width:20% !important"><a href="about.php">About</a></li>
-  <li class="mx-left" style="width:20% !important"><a href="developer_info.php">Contact</a></li>
+  <li class="mx-left" style="width:20% !important"><a href="contact.php">Contact</a></li>
 
 </ul>
 
